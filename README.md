@@ -1,1 +1,1 @@
-### Hi there 👋, Portfolio --> [timostrating.github.io](https://timostrating.github.io)
+Portfolio --> [timostrating.github.io](https://timostrating.github.io) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Timo Strating project euler](https://projecteuler.net/profile/timostrating.png)
